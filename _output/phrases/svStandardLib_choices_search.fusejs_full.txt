@@ -1,1 +1,0 @@
-<a href="https://www.fusejs.io/getting-started/different-builds.html">Fuse.js full</a> search
